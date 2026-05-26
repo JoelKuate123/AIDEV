@@ -110,12 +110,3 @@ Ces éléments **complètent** le programme sans le contredire. Toute hypothèse
 | Référence Ollama + Llama-3.1-8B pour le TP local | Hypothèse : poste avec ≥ 16 Go RAM. À adapter si machines plus modestes |
 | Pattern « critique / worker » dans multi-agents | Présent dans la littérature 2024-2026 — non cité tel quel dans la source |
 
----
-
-## Conformité au programme source
-
-- ✅ **Ordre des chapitres conservé** : 1 → 2 → 3 → 4
-- ✅ **Tous les points** du programme apparaissent dans au moins une section
-- ✅ **Tous les TP** sont implémentés avec énoncé + livrable + corrigé
-- ✅ **Ressources complémentaires** intégrées dans `ressources/ressources.md`
-- ✅ **Aucune ligne du programme source supprimée ou réécrite**

@@ -112,10 +112,4 @@ Ces éléments **complètent** le programme sans le contredire. Toute hypothèse
 
 ---
 
-## Conformité au programme source
 
-- ✅ **Ordre des chapitres conservé** : 1 → 2 → 3 → 4
-- ✅ **Tous les points** du programme apparaissent dans au moins une section
-- ✅ **Tous les TP** sont implémentés avec énoncé + livrable + corrigé
-- ✅ **Ressources complémentaires** intégrées dans `ressources/ressources.md`
-- ✅ **Aucune ligne du programme source supprimée ou réécrite**
